@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdf31734-3955-431d-9f1d-3f3326f38c01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ExcelFile/Book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ExcelFile/EmloyeeList.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelReadWriteProject2/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelReadWriteProject2/WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InsertAndSelectProject2/InsertIntoStm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/InsertAndSelectProject2/SelectStm.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2v7xu60eNLUxvYAmiWxEw5Ci5oe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/armac/IdeaProjects/Mysql_excel_Project2/src/test/ExcelFile&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\armac\IdeaProjects\Mysql_excel_Project2\src\test\ExcelFile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SelectStm">
+    <configuration name="InsertIntoStm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertAndSelectProject2.InsertIntoStm" />
+      <module name="Mysql_excel_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InsertAndSelectProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelReadWriteProject2.ReadExcel" />
+      <module name="Mysql_excel_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExcelReadWriteProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectStm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertAndSelectProject2.SelectStm" />
+      <module name="Mysql_excel_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InsertAndSelectProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelReadWriteProject2.WriteExcel" />
+      <module name="Mysql_excel_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExcelReadWriteProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SelectStm" />
+        <item itemvalue="Application.InsertIntoStm" />
+        <item itemvalue="Application.ReadExcel" />
+        <item itemvalue="Application.WriteExcel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdf31734-3955-431d-9f1d-3f3326f38c01" name="Changes" comment="" />
+      <created>1743510192835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743510192835</updated>
+    </task>
+    <servers />
+  </component>
+</project>
