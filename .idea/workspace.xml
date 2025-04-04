@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf31734-3955-431d-9f1d-3f3326f38c01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ExcelFile/Book1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ExcelFile/EmloyeeList.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelReadWriteProject2/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelReadWriteProject2/WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/InsertAndSelectProject2/InsertIntoStm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/InsertAndSelectProject2/SelectStm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ExcelFile/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ExcelFile/Book1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExcelReadWriteProject2/WriteExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelReadWriteProject2/WriteExcel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +53,7 @@
       <recent name="C:\Users\armac\IdeaProjects\Mysql_excel_Project2\src\test\ExcelFile" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectStm">
+  <component name="RunManager" selected="Application.WriteExcel">
     <configuration name="InsertIntoStm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InsertAndSelectProject2.InsertIntoStm" />
       <module name="Mysql_excel_Project2" />
@@ -118,10 +108,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WriteExcel" />
         <item itemvalue="Application.SelectStm" />
         <item itemvalue="Application.InsertIntoStm" />
         <item itemvalue="Application.ReadExcel" />
-        <item itemvalue="Application.WriteExcel" />
       </list>
     </recent_temporary>
   </component>

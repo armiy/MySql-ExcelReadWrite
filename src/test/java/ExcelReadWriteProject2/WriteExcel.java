@@ -60,9 +60,9 @@ public class WriteExcel {
     }
 
     public static void main(String[] args) {
-        excelRead("Hiwot",
-                "Female","50",
-                "251123456","hiwot@gmail.com",5);
+        excelRead("Bekle Bedada",
+                "Male","65",
+                "251911235867","bedada@gmail.com",1);
     }
     }
 
